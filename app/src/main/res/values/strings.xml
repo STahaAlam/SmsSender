@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Sms Sender</string>
+    <string name="action_settings">Settings</string>
+    <string name="ip_address">IP Address</string>
+    <string name="database_name">Database Name</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="connect">Connect</string>
+    <string name="connection">If not Connected Yet Connect It</string>
+    <string name="noOfMessegesInLife">Total No Of Messages:</string>
+    <string name="noOfMessegesInThisActivity">No Of Sent Till This Activity:</string>
+    <string name="totalsms">Toatal Sms Send</string>
+    <string name="totalsmsinlife">Total send In Life</string>
+
+</resources>

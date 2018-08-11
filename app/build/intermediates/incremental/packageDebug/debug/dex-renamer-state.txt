@@ -1,0 +1,4 @@
+#Fri Jun 22 20:50:12 PKT 2018
+base.0=E\:\\SmsSender\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
